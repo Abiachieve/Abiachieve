@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinaya</h1>
-<h3 align="center">A passionate fullstack developer MERN from salem</h3>
+<h3 align="center">A passionate fullstack developer MERN from Salem,Tamilnadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiachieve&label=Profile%20views&color=0e75b6&style=flat" alt="abiachieve" /> </p>
 
